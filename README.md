@@ -1,0 +1,2 @@
+# CapacitacaoSEASSantoAmaro.github.io
+Site desenvolvido com a finalidade de promover capacitação aos funcionários do SEAS Santo Amaro. Há uma leitura sobre o serviço e ao final do estudo é possivel realizar o teste de aprendizado. É necessário aguardar a liberação e confirmação do Gerente do serviço, assim o funcionário receberá o questionário no Email para realizar o teste e receber o Certificado.
